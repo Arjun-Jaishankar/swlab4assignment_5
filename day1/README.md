@@ -1,1 +1,2 @@
-# Task 1 - Rule-Based Agent\nRun: python agent.py
+# Task 1 - Rule-Based Agent
+Run: python agent.py
