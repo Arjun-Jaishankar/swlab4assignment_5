@@ -1,1 +1,3 @@
-# Task 3 - LLM-Based Agent\nRun: python agent.py\nLogs written to logs.txt
+# Task 3 - LLM-Based Agent
+Run: python agent.py
+Logs written to logs.txt
